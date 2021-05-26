@@ -1,0 +1,68 @@
+const product_data = [
+  {
+    id: 1,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, with glass doors 3/4x11x93 1/4",
+    price: 350,
+    currency: "$",
+  },
+  {
+    id: 2,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, white15 3/4x11x93 1/4 ",
+    price: 250,
+    currency: "$",
+  },
+  {
+    id: 3,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, with glass doors 3/4x11x93 1/4",
+    price: 350,
+    currency: "$",
+  },
+  {
+    id: 4,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, 3/4x11x93 1/4",
+    price: 350,
+    currency: "$",
+  },
+  {
+    id: 5,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, with glass doors 3/4x11x93 1/4",
+    price: 450,
+    currency: "$",
+  },
+  {
+    id: 6,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, white15 3/4x11x93 1/4 ",
+    price: 300,
+    currency: "$",
+  },
+  {
+    id: 7,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, white15 3/4x11x93 1/4 ",
+    price: 350,
+    currency: "$",
+  },
+  {
+    id: 8,
+    img: "./images/img.jpg",
+    title: "BILLY",
+    description: "Bookcase, white15 3/4x11x93 1/4 ",
+    price: 500,
+    currency: "$",
+  },
+];
+
+export default product_data;
